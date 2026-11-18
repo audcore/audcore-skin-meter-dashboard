@@ -32,7 +32,8 @@
 ```sh
 git clone https://github.com/audcore/audcore-skin-meter-dashboard.git
 cd audcore-skin-meter-dashboard
-node --test tools/build-package.test.mjs web/hud.test.mjs
+node --test tools/build-package.test.mjs
+node --test web/hud.test.mjs
 node tools/build-package.mjs . dist
 ```
 
