@@ -38,8 +38,8 @@
   "preview": "assets/preview.png",
   "kind": "web",
   "license": "MIT",
-  "repository": "https://github.com/audcore/audcore-skin-signal-hud",
-  "description": "Signal HUD，声核独立网页皮肤",
+  "repository": "https://github.com/audcore/audcore-skin-meter-dashboard",
+  "description": "用荧光绿电平表和大号读数观察通道，左侧列表切换通道，并保留常用调音操作。",
   "build": {
     "schema": 1,
     "recipe": "web-static",
